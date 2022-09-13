@@ -3,7 +3,7 @@ course_name: "Programação de Computadores 1"
 course_description: "Disciplina de Programação de Computadores 1 dos cursos superiores de Computação do IFB, campus Taguatinga."
 course_semester: "2022/2"
 
-baseurl: "/programacao-de-computadores-1" # the subpath of your site, e.g. /blog/
+baseurl: "/programacao-de-computadores-1-tai" # the subpath of your site, e.g. /blog/
 url: "https://danielsaad.com" # the base hostname & protocol for your site
 
 schoolname: "Instituto Federal de Educação, Ciência e Tecnologia de Brasília, campus Taguatinga"
